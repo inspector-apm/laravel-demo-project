@@ -48,3 +48,4 @@ INSPECTOR_INGESTION_KEY=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 ## How to use the demo project
+Access to the home page at: [http://192.168.56.56](http://192.168.56.56)
